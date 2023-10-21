@@ -1,4 +1,4 @@
-## Project Name
+# Project Name
 
 BookStore
 
@@ -6,7 +6,7 @@ BookStore
 
 This repository contains the code for a basic web application developed using Java and related technologies. This project was created by following the Pluralsight tutorial [https://app.pluralsight.com/library/courses/java-basic-web-app/description].
 
-## Description
+# Description
 
 This web application serves as an introductory project to Java web development. It demonstrates fundamental concepts of building a web application, including handling HTTP requests, managing routes, and rendering dynamic content. This web app specifically focuses on bookstore management, allowing users to view a list of books with their titles, authors, and names. The list can be updated by adding a book, deleting an existing one, or even editing the details of a book in the list.
 
@@ -33,15 +33,15 @@ As of now, the project has not been deployed for the following reasons:
 While it's not deployed, developers can still clone the repository and explore the code.
 
 
-## Contributing
+# Contributing
 
 Contributions are welcome! If you find any issues or have improvements to suggest, please open an issue or create a pull request. 
 
-## Acknowledgments
+# Acknowledgments
 
 Special thanks to Sarah Holderness, the author of the Pluralsight tutorial that provided me with the valuable guidance and insights.
 
-## Contact
+# Contact
 
 For any inquiries or feedback, feel free to contact the project maintainers: 
 - Ephraim Rodgers: [erodgers092@gmail.com] or [codemage357@gmail.com]
