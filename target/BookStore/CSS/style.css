@@ -1,0 +1,88 @@
+@charset "ISO-8859-1";
+*{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+	background-image: url('../IMAGES/Wallpaper.jpg Wallpaper.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1, h2{
+	color: green;
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+	color: green;
+}
+
+.booktable{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+table{
+	width: 70vw;
+	margin-top: 40px;
+}
+
+table caption{
+	font-size: 1.5rem;
+	margin-bottom: 20px;
+}
+
+table, th, td{
+	border: 1px solid lightgray;
+	border-collapse: collapse;
+}
+
+td{
+	padding-left: 20px;
+	text-align: left !important;
+}
+
+tr{
+	height: 40px;
+}
+
+.index{
+	width: 10%;
+}
+.col1{
+	width: 30%;
+}
+
+.col2{
+	width: 25%;
+}
+
+.col3{
+	width: 15%;
+}
+
+
+form{
+	align-self: center;
+	border: 2px solid lightgray;
+	margin-top: 40px;
+	width: 90%;
+}
+
+.center-form{
+	text-align: center;
+	justify-content: center;
+}
+
+#form-container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#del{
+	color: red !important;
+}

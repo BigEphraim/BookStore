@@ -5,6 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <build>
+	<finalName>BookStore</finalName>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
@@ -24,6 +25,13 @@
   <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
 
   <dependencies>
+	<dependency>
+        <groupId>javax.servlet</groupId>
+        <artifactId>javax.servlet-api</artifactId>
+        <version>4.0.0</version> <!-- Use the appropriate version -->
+        <scope>provided</scope>
+    </dependency>
+    
 	<dependency>
 	    <groupId>jstl</groupId>
 	    <artifactId>jstl</artifactId>
